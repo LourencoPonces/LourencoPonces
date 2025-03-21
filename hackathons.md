@@ -4,17 +4,17 @@
   <table>
     <tr>
       <td align="center">
-        <img src="./images/hacktogether-team.jpeg" alt="Hackathon Achievement 1" width="350" height="250" style="object-fit: cover;"/><br/>
+        <img src="./images/hacktogether-team.jpeg" alt="Hackathon Achievement 1" width="350"/><br/>
         <sub><b>HackTogether Lisbon 2024</b></sub><br/>
         <sub><i>3rd Place Winner</i></sub>
       </td>
       <td align="center">
-        <img src="./images/makeit-team.jpeg" alt="Hackathon Achievement 2" width="350" height="250" style="object-fit: cover;"/><br/>
+        <img src="./images/makeit-team.jpeg" alt="Hackathon Achievement 2" width="350"/><br/>
         <sub><b>Make IT Millennium 2023</b></sub><br/>
         <sub><i>1st Place Local Phase</i></sub>
       </td>
       <td align="center">
-        <img src="./images/hackathome-team.jpg" alt="Hackathon Achievement 3" width="350" height="250" style="object-fit: cover;"/><br/>
+        <img src="./images/hackathome-team.jpg" alt="Hackathon Achievement 3" width="350"/><br/>
         <sub><b>HACKATHOME 2022</b></sub><br/>
         <sub><i>1st Place Winner</i></sub>
       </td>
