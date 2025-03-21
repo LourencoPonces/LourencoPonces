@@ -22,10 +22,15 @@
   </table>
 </div>
 
+<!-- ------------------------------------------------------------- -->
+<!-- ------------------------------------------------------------- -->
+
 ## 🥉 HackTogether Lisbon - 3rd Place
 
 <div align="center">
-  <img src="./images/hacktogether-logo.jpg" alt="HackTogether Logo" width="100" style="border-radius: 50%;"/>
+  <kbd>
+    <img src="./images/hacktogether-logo.jpg" alt="HackTogether Logo" width="100" height="100"/>
+  </kbd>
 </div>
 
 **November 2024** | [![HackTogether](https://img.shields.io/badge/HackTogether-Lisbon-blue)](https://hacktogether.pt) | [Event Link](https://reacttogether.dev/hackathon)
@@ -47,7 +52,17 @@ A platform revolutionizing group trip planning through:
 - **Google Maps API** - Interactive destination exploration
 - **Real-time Collaboration** - Seamless user interaction
 
+<!-- ------------------------------------------------------------- -->
+<!-- ------------------------------------------------------------- -->
+
 ## 🥇 Make IT Millennium - 1st Place (Local Phase)
+
+<div align="center">
+  <kbd>
+    <img src="./images/hacktogether-logo.jpg" alt="HackTogether Logo" width="100" height="100"/>
+  </kbd>
+</div>
+
 **February 2023** | [![Millennium](https://img.shields.io/badge/Millennium-Bank-green)](https://www.millenniumbcp.pt) | [Event Link](https://www.millenniumbcp.pt)
 
 ### 🏆 Achievement
@@ -64,6 +79,15 @@ Developed a sophisticated predictive model for banking customer retention:
   - K-Nearest Neighbors (KNN)
 - **Accuracy**: >70%
 - **Business Impact**: Actionable churn prevention strategies
+
+<!-- ------------------------------------------------------------- -->
+<!-- ------------------------------------------------------------- -->
+
+<div align="center">
+  <kbd>
+    <img src="./images/hackathome-logo.png" alt="HackTogether Logo" width="100" height="100"/>
+  </kbd>
+</div>
 
 ## 🥇 HACKATHOME Hackathon - 1st Place
 **May 2022** | [![HACKATHOME](https://img.shields.io/badge/HACKATHOME-Lisbon-orange)](https://hackathome.pt) | [Event Link](https://hackathome.pt)
