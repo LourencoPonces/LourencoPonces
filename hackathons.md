@@ -28,9 +28,9 @@
 ## 🥉 HackTogether Lisbon - 3rd Place
 
 <div align="center">
-  <kbd>
+  <div style="border-radius: 100%; overflow: hidden; width: 100px; height: 100px;">
     <img src="./images/hacktogether-logo.jpg" alt="HackTogether Logo" width="100" height="100"/>
-  </kbd>
+  </div>
 </div>
 
 **November 2024** | [![HackTogether](https://img.shields.io/badge/HackTogether-Lisbon-blue)](https://hacktogether.pt) | [Event Link](https://reacttogether.dev/hackathon)
@@ -58,9 +58,9 @@ A platform revolutionizing group trip planning through:
 ## 🥇 Make IT Millennium - 1st Place (Local Phase)
 
 <div align="center">
-  <kbd>
-    <img src="./images/hacktogether-logo.jpg" alt="HackTogether Logo" width="100" height="100"/>
-  </kbd>
+  <div style="border-radius: 100%; overflow: hidden; width: 100px; height: 100px;">
+    <img src="./images/makeit-logo.jpg" alt="Make It Logo" width="100" height="100"/>
+  </div>
 </div>
 
 **February 2023** | [![Millennium](https://img.shields.io/badge/Millennium-Bank-green)](https://www.millenniumbcp.pt) | [Event Link](https://www.millenniumbcp.pt)
@@ -84,9 +84,9 @@ Developed a sophisticated predictive model for banking customer retention:
 <!-- ------------------------------------------------------------- -->
 
 <div align="center">
-  <kbd>
-    <img src="./images/hackathome-logo.png" alt="HackTogether Logo" width="100" height="100"/>
-  </kbd>
+  <div style="border-radius: 100%; overflow: hidden; width: 100px; height: 100px;">
+    <img src="./images/hackathome-logo.png" alt="Hackathome Logo" width="100" height="100"/>
+  </div>
 </div>
 
 ## 🥇 HACKATHOME Hackathon - 1st Place
