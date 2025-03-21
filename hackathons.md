@@ -1,29 +1,29 @@
 # 🏆 Hackathon Achievements
 
 <div align="center">
-  <table>
+  <table style="border-spacing: 20px; border-collapse: separate;">
     <tr>
-      <td align="center" width="33%">
-        <div style="width: 300px; height: 200px; overflow: hidden; border-radius: 10px;">
-          <img src="./images/hacktogether-team.jpeg" alt="Hackathon Achievement 1" style="width: 100%; height: 100%; object-fit: cover;"/>
+      <td align="center" width="33%" style="vertical-align: top;">
+        <div style="width: 350px; height: 250px; overflow: hidden; border-radius: 10px; position: relative;">
+          <img src="./images/hacktogether-team.jpeg" alt="Hackathon Achievement 1" style="width: 100%; height: 100%; object-fit: cover; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);"/>
         </div>
         <div style="margin-top: 10px; font-size: 14px; color: #666;">
           <strong>HackTogether Lisbon 2024</strong><br/>
           <em>3rd Place Winner</em>
         </div>
       </td>
-      <td align="center" width="33%">
-        <div style="width: 300px; height: 200px; overflow: hidden; border-radius: 10px;">
-          <img src="./images/makeit-team.jpeg" alt="Hackathon Achievement 2" style="width: 100%; height: 100%; object-fit: cover;"/>
+      <td align="center" width="33%" style="vertical-align: top;">
+        <div style="width: 350px; height: 250px; overflow: hidden; border-radius: 10px; position: relative;">
+          <img src="./images/makeit-team.jpeg" alt="Hackathon Achievement 2" style="width: 100%; height: 100%; object-fit: cover; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);"/>
         </div>
         <div style="margin-top: 10px; font-size: 14px; color: #666;">
           <strong>Make IT Millennium 2023</strong><br/>
           <em>1st Place Local Phase</em>
         </div>
       </td>
-      <td align="center" width="33%">
-        <div style="width: 300px; height: 200px; overflow: hidden; border-radius: 10px;">
-          <img src="./images/hackathome-team.jpg" alt="Hackathon Achievement 3" style="width: 100%; height: 100%; object-fit: cover;"/>
+      <td align="center" width="33%" style="vertical-align: top;">
+        <div style="width: 350px; height: 250px; overflow: hidden; border-radius: 10px; position: relative;">
+          <img src="./images/hackathome-team.jpg" alt="Hackathon Achievement 3" style="width: 100%; height: 100%; object-fit: cover; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);"/>
         </div>
         <div style="margin-top: 10px; font-size: 14px; color: #666;">
           <strong>HACKATHOME 2022</strong><br/>
