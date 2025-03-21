@@ -3,17 +3,17 @@
 <div align="center">
   <table style="border-collapse: collapse; border: none;">
     <tr>
-      <td align="center" style="border: none; padding: 20px;">
+      <td align="center">
         <img src="./images/hacktogether-team.jpeg" alt="Hackathon Achievement 1" width="350"/><br/>
         <sub><b>HackTogether Lisbon 2024</b></sub><br/>
         <sub><i>3rd Place Winner</i></sub>
       </td>
-      <td align="center" style="border: none; padding: 20px;">
+      <td align="center">
         <img src="./images/makeit-team.jpeg" alt="Hackathon Achievement 2" width="350"/><br/>
         <sub><b>Make IT Millennium 2023</b></sub><br/>
         <sub><i>1st Place Local Phase</i></sub>
       </td>
-      <td align="center" style="border: none; padding: 20px;">
+      <td align="center">
         <img src="./images/hackathome-team.jpg" alt="Hackathon Achievement 3" width="350"/><br/>
         <sub><b>HACKATHOME 2022</b></sub><br/>
         <sub><i>1st Place Winner</i></sub>
@@ -23,11 +23,14 @@
 </div>
 
 ## 🥉 HackTogether Lisbon - 3rd Place
-**November 2024** | [![HackTogether](https://img.shields.io/badge/HackTogether-Lisbon-blue)](https://hacktogether.pt) | [Event Link](https://reacttogether.dev/hackathon)
 
 <div align="center">
-  <img src="./images/hacktogether-logo.jpg" alt="HackTogether Logo" width="100"/>
+  <img src="./images/hacktogether-logo.jpg" alt="HackTogether Logo" width="100" style="border-radius: 50%;"/>
 </div>
+
+**November 2024** | [![HackTogether](https://img.shields.io/badge/HackTogether-Lisbon-blue)](https://hacktogether.pt) | [Event Link](https://reacttogether.dev/hackathon)
+
+
 
 ### 🏆 Achievement
 - Secured **3rd place** among 70 participants who created 21 projects over 24 hours
