@@ -33,51 +33,32 @@
   </kbd>
 </div>
 
-**November 2024** | [![HackTogether](https://img.shields.io/badge/HackTogether-Lisbon-blue)](https://hacktogether.pt) | [Event Link](https://reacttogether.dev/hackathon)
-
 ### 🏆 Achievement
-- Secured **3rd place** among 70 participants who created 21 projects over 24 hours
-- Organized by Multisync, focusing on real-time collaboration technologies
-- Developed and presented the project within an intense 24-hour timeframe
+- **3rd place** among 70 participants (21 projects, 24 hours)
+- Organized by [Multisync](https://multisynq.io/) using their [ReactTogether](https://reacttogether.dev/) technology
 
 ### 🚀 Project: TripSync
 TripSync transforms chaotic group trip planning into a seamless experience. Our platform simplifies the way friends coordinate their travel plans by providing an intuitive, real-time collaborative environment.
 
-#### ✨ Key Features
-- 📍 **Interactive Shared Itineraries**
-  - Collaborative trip planning in real-time
-  - Dynamic timeline visualization
-  - Instant updates across all participants
-- 🗺️ **Smart Map Integration**
-  - Interactive destination exploration
-  - Point of interest management
-  - Real-time location sharing
-- ⚡ **Real-time Collaboration**
-  - Synchronized editing for all users
-  - Live updates across devices
-  - Seamless multi-user experience
+#### 📍 Key Features
+- **Real-time Collaboration**
+  - Synchronized trip planning with live cursors
+  - Interactive maps with shared markers
+  - Real-time itinerary updates
 
-### 💻 Tech Stack
-- **React Together** - Multisync's real-time synchronization library
-  - Implemented `useStateTogether` hook for state synchronization
-  - Real-time data consistency across clients
-  - Seamless multi-user collaboration
-- **Google Maps API**
-  - Interactive map integration
-  - Dynamic POI management
-  - Custom markers and routing
-- **React & TypeScript**
-  - Modern component architecture
-  - Type-safe development
-  - Responsive design
+#### ⚡ Tech Stack
+- **Frontend**: React, TypeScript, Google Maps API
+- **Real-time**: ReactTogether (`useStateTogether`)
+- **Cloud**: Cloudflare Pages
 
-### 🔗 Project Links
-- [🎥 Demo Video](https://www.youtube.com/watch?v=ONnM82d7g4M)
-- [🌐 Live Project](https://hacktogether-ariel.pages.dev/)
+### 🔗 Resources
+- 📊 [Hackathon Page](https://reacttogether.dev/hackathon)
+- 🏆 [Competition](https://taikai.network/multisynq/hackathons/hacktogether)
+- 🎥 [Demo Video](https://www.youtube.com/watch?v=ONnM82d7g4M)
+- 🌐 [Live Demo](https://hacktogether-ariel.pages.dev/)
 
 ### 👥 Team
-- [Gonçalo Canhoto](https://github.com/goncalocanhoto)
-- [Pedro Henriques](https://github.com/PedroCarvalhoHenriques)
+[@goncalocanhoto](https://github.com/goncalocanhoto) & [@PedroCarvalhoHenriques](https://github.com/PedroCarvalhoHenriques)
 
 <!-- ------------------------------------------------------------- -->
 <!-- ------------------------------------------------------------- -->
@@ -110,13 +91,14 @@ Developed a sophisticated predictive model for banking customer retention:
 <!-- ------------------------------------------------------------- -->
 <!-- ------------------------------------------------------------- -->
 
+## 🥇 HACKATHOME Hackathon - 1st Place
+
 <div align="center">
   <kbd>
     <img src="./images/hackathome-logo.png" alt="Hackathome Logo" width="100" height="100"/>
   </kbd>
 </div>
 
-## 🥇 HACKATHOME Hackathon - 1st Place
 **May 2022** | [![HACKATHOME](https://img.shields.io/badge/HACKATHOME-Lisbon-orange)](https://hackathome.pt) | [Event Link](https://hackathome.pt)
 
 ### 🏆 Achievement
