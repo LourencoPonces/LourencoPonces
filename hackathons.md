@@ -53,12 +53,12 @@ TripSync transforms chaotic group trip planning into a seamless experience. Our 
 
 ### 🔗 Resources
 - 📊 [Hackathon Page](https://reacttogether.dev/hackathon)
-- 🏆 [Competition](https://taikai.network/multisynq/hackathons/hacktogether)
+- 🏆 [Hackathon Taikai Page](https://taikai.network/multisynq/hackathons/hacktogether)
 - 🎥 [Demo Video](https://www.youtube.com/watch?v=ONnM82d7g4M)
 - 🌐 [Live Demo](https://hacktogether-ariel.pages.dev/)
 
 ### 👥 Team
-[@goncalocanhoto](https://github.com/goncalocanhoto) & [@PedroCarvalhoHenriques](https://github.com/PedroCarvalhoHenriques)
+[Gonçalo Canhoto](https://github.com/goncalocanhoto) & [Pedro Henriques](https://github.com/PedroCarvalhoHenriques)
 
 <!-- ------------------------------------------------------------- -->
 <!-- ------------------------------------------------------------- -->
@@ -71,22 +71,30 @@ TripSync transforms chaotic group trip planning into a seamless experience. Our 
   </kbd>
 </div>
 
-**February 2023** | [![Millennium](https://img.shields.io/badge/Millennium-Bank-green)](https://www.millenniumbcp.pt) | [Event Link](https://www.millenniumbcp.pt)
-
 ### 🏆 Achievement
-- Won **1st place** in the local phase (ULisboa)
+- **1st place** in local phase (ULisboa)
 - Advanced to the **national phase**
+- Organized by [Millennium Bank](https://www.millenniumbcp.pt)
 
-### 🎯 Project: Customer Churn Prediction
-Developed a sophisticated predictive model for banking customer retention:
+### 🚀 Project: Customer Churn Predictor
+A machine learning solution that predicts and prevents customer churn through transaction data analysis.
 
-#### 📊 Technical Highlights
-- **Machine Learning Models**:
-  - Random Forest
-  - Gradient Boosting
-  - K-Nearest Neighbors (KNN)
-- **Accuracy**: >70%
-- **Business Impact**: Actionable churn prevention strategies
+#### 📍 Key Features
+- **Predictive Analytics**
+  - Customer behavior analysis
+  - Transaction pattern detection
+  - Risk level assessment
+
+#### ⚡ Tech Stack
+- **ML Models**: Random Forest, Gradient Boosting, KNN
+- **Performance**: >70% prediction accuracy
+- **Data**: Feature engineering from banking transactions
+
+### 🔗 Resources
+- 📊 [Hackathon Page](https://makeitmillennium.pt/)
+
+### 👥 Team
+[Pedro Henriques](https://github.com/PedroCarvalhoHenriques), [Pedro Rodrigues](https://github.com/Rodriguespn), [Mónica Abreu](https://www.linkedin.com/in/m%C3%B3nica-abreu/) 
 
 <!-- ------------------------------------------------------------- -->
 <!-- ------------------------------------------------------------- -->
@@ -99,23 +107,36 @@ Developed a sophisticated predictive model for banking customer retention:
   </kbd>
 </div>
 
-**May 2022** | [![HACKATHOME](https://img.shields.io/badge/HACKATHOME-Lisbon-orange)](https://hackathome.pt) | [Event Link](https://hackathome.pt)
-
 ### 🏆 Achievement
-- Won **1st place** at HACKATHOME Hackathon
-- Organized by Startup Lisboa and Câmara Municipal de Lisboa
+- **1st place** winner among Lisbon's innovators
+- Organized by [Startup Lisboa](https://www.startuplisboa.com/) & [CML](https://www.lisboa.pt/)
+- Focused on urban development solutions
 
-### 🏠 Project: Lisbon Property Revitalization
-A platform addressing Lisbon's housing challenges:
+### 🚀 Project: DAOHomes
+A blockchain-powered platform with the goal of revolutionizing Lisbon's housing market by connecting property owners with micro-investors.
 
-#### 💡 Key Features
-- Connects 48,000 empty houses with investors
-- Innovative renovation funding model
-- Profit-sharing system for property investments
+#### 📍 Key Features
+- **Smart Property Investment**
+  - Tokenization of vacant properties
+  - Fractional ownership system
+  - Democratic renovation decisions
 
-### 👥 Jury Presentation
-Presented to distinguished panel including:
-- Câmara Municipal de Lisboa
-- Startup Lisboa
-- Microsoft
-- Instituto Superior Técnico
+#### ⚡ Tech Stack
+- **Blockchain**: Asset tokens, DAO governance
+- **Platform**: Web application (Bubble.io MVP)
+- **Design**: Figma prototypes
+- **Data**: 48,000 vacant properties in Lisbon
+
+### 💡 Impact
+- Enables property owners to renovate through micro-investments
+- Democratizes real estate investment (49% market interest)
+- Creates sustainable urban development model
+
+### 🔗 Resources
+- 🏆 [Hackathon Page](https://www.hackathome.pt/)
+- 🏆 [Hackathon Taikai Page](https://taikai.network/startuplisboa/hackathons/hackathome)
+- 🎥 [Demo Video](https://www.youtube.com/watch?v=fV--UsZYCdY)
+- 📰 News: [Técnico Newsletter](https://tecnico.ulisboa.pt/pt/noticias/junitec-vence-hackathome-e-cria-solucao-tecnologica-para-as-cerca-de-48-mil-casas-vazias-em-lisboa/), [ECO](https://eco.sapo.pt/2022/05/30/junikek-vence-hackathome-com-tecnologia-para-encher-casas-vazias-em-lisboa/), [The Next Big Idea](https://thenextbigidea.pt/casas-vazias-em-lisboa-o-vencedor-do-hackathome-foi-a-junikek/), [Lisbon Council (CML)](https://informacao.lisboa.pt/noticias/arquivo/detalhe/sao-conhecidos-os-vencedores-do-1o-hackathome-de-lisboa)
+
+### 👥 Team
+[Luís Parra](https://www.linkedin.com/in/luisjoseparra/), [Maria Oliveira Fernandes](https://www.linkedin.com/in/maria-oliveira-fernandes/), [Pedro Rodrigues](https://github.com/Rodriguespn), [Vicente Mendes](https://www.linkedin.com/in/vicentecondemendes/)
