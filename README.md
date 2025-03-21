@@ -20,7 +20,7 @@
 
 - 💻 Founding Engineer at [Aeon.so](https://aeon.so): Building a multi-chain asset management platform with institutional-grade security.
 
-- 🏆 Hackathon Winner: Multiple hackathon victories showcasing innovative problem-solving. [View achievements](./hackathons.md)
+- 🏆 Hackathon Winner: Multiple hackathon victories showcasing innovative problem-solving. [View hackathons](./hackathons.md)
 
 - 📚 Lifelong Learner: Focused on continuous professional development and technical growth.
 

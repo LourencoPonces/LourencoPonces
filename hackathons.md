@@ -3,7 +3,7 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center">
+      <td align="center" width="33%">
         <div style="width: 300px; height: 200px; overflow: hidden; border-radius: 10px;">
           <img src="./images/hacktogether-team.jpeg" alt="Hackathon Achievement 1" style="width: 100%; height: 100%; object-fit: cover;"/>
         </div>
@@ -12,7 +12,7 @@
           <em>3rd Place Winner</em>
         </div>
       </td>
-      <td align="center">
+      <td align="center" width="33%">
         <div style="width: 300px; height: 200px; overflow: hidden; border-radius: 10px;">
           <img src="./images/makeit-team.jpeg" alt="Hackathon Achievement 2" style="width: 100%; height: 100%; object-fit: cover;"/>
         </div>
@@ -21,7 +21,7 @@
           <em>1st Place Local Phase</em>
         </div>
       </td>
-      <td align="center">
+      <td align="center" width="33%">
         <div style="width: 300px; height: 200px; overflow: hidden; border-radius: 10px;">
           <img src="./images/hackathome-team.jpg" alt="Hackathon Achievement 3" style="width: 100%; height: 100%; object-fit: cover;"/>
         </div>
