@@ -41,10 +41,9 @@
 TripSync transforms chaotic group trip planning into a seamless experience. Our platform simplifies the way friends coordinate their travel plans by providing an intuitive, real-time collaborative environment.
 
 #### 📍 Key Features
-- **Real-time Collaboration**
-  - Synchronized trip planning with live cursors
-  - Interactive maps with shared markers
-  - Real-time itinerary updates
+- Synchronized trip planning with live cursors
+- Interactive maps with shared markers
+- Real-time itinerary updates
 
 #### ⚡ Tech Stack
 - **Frontend**: React, TypeScript, Google Maps API
@@ -80,10 +79,9 @@ TripSync transforms chaotic group trip planning into a seamless experience. Our 
 A machine learning solution that predicts and prevents customer churn through transaction data analysis.
 
 #### 📍 Key Features
-- **Predictive Analytics**
-  - Customer behavior analysis
-  - Transaction pattern detection
-  - Risk level assessment
+- Customer behavior analysis
+- Transaction pattern detection
+- Risk level assessment
 
 #### ⚡ Tech Stack
 - **ML Models**: Random Forest, Gradient Boosting, KNN
@@ -116,10 +114,11 @@ A machine learning solution that predicts and prevents customer churn through tr
 A blockchain-powered platform with the goal of revolutionizing Lisbon's housing market by connecting property owners with micro-investors.
 
 #### 📍 Key Features
-- **Smart Property Investment**
-  - Tokenization of vacant properties
-  - Fractional ownership system
-  - Democratic renovation decisions
+- Enables property owners to renovate through micro-investments (fractional ownership system)
+- Democratizes real estate investment (49% market interest)
+- Creates sustainable urban development model
+- Tokenization of vacant properties
+- Democratic renovation decisions
 
 #### ⚡ Tech Stack
 - **Blockchain**: Asset tokens, DAO governance
@@ -127,16 +126,11 @@ A blockchain-powered platform with the goal of revolutionizing Lisbon's housing 
 - **Design**: Figma prototypes
 - **Data**: 48,000 vacant properties in Lisbon
 
-### 💡 Impact
-- Enables property owners to renovate through micro-investments
-- Democratizes real estate investment (49% market interest)
-- Creates sustainable urban development model
-
 ### 🔗 Resources
 - 🏆 [Hackathon Page](https://www.hackathome.pt/)
 - 🏆 [Hackathon Taikai Page](https://taikai.network/startuplisboa/hackathons/hackathome)
 - 🎥 [Demo Video](https://www.youtube.com/watch?v=fV--UsZYCdY)
-- 📰 News: [Técnico Newsletter](https://tecnico.ulisboa.pt/pt/noticias/junitec-vence-hackathome-e-cria-solucao-tecnologica-para-as-cerca-de-48-mil-casas-vazias-em-lisboa/), [ECO](https://eco.sapo.pt/2022/05/30/junikek-vence-hackathome-com-tecnologia-para-encher-casas-vazias-em-lisboa/), [The Next Big Idea](https://thenextbigidea.pt/casas-vazias-em-lisboa-o-vencedor-do-hackathome-foi-a-junikek/), [Lisbon Council (CML)](https://informacao.lisboa.pt/noticias/arquivo/detalhe/sao-conhecidos-os-vencedores-do-1o-hackathome-de-lisboa)
+- 📰 Feature in: [Técnico Newsletter](https://tecnico.ulisboa.pt/pt/noticias/junitec-vence-hackathome-e-cria-solucao-tecnologica-para-as-cerca-de-48-mil-casas-vazias-em-lisboa/), [ECO](https://eco.sapo.pt/2022/05/30/junikek-vence-hackathome-com-tecnologia-para-encher-casas-vazias-em-lisboa/), [The Next Big Idea](https://thenextbigidea.pt/casas-vazias-em-lisboa-o-vencedor-do-hackathome-foi-a-junikek/), [Lisbon Council (CML)](https://informacao.lisboa.pt/noticias/arquivo/detalhe/sao-conhecidos-os-vencedores-do-1o-hackathome-de-lisboa)
 
 ### 👥 Team
 [Luís Parra](https://www.linkedin.com/in/luisjoseparra/), [Maria Oliveira Fernandes](https://www.linkedin.com/in/maria-oliveira-fernandes/), [Pedro Rodrigues](https://github.com/Rodriguespn), [Vicente Mendes](https://www.linkedin.com/in/vicentecondemendes/)
