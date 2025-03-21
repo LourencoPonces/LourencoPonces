@@ -28,29 +28,56 @@
 ## 🥉 HackTogether Lisbon - 3rd Place
 
 <div align="center">
-  <div style="border-radius: 100%; overflow: hidden; width: 100px; height: 100px;">
+  <kbd>
     <img src="./images/hacktogether-logo.jpg" alt="HackTogether Logo" width="100" height="100"/>
-  </div>
+  </kbd>
 </div>
 
 **November 2024** | [![HackTogether](https://img.shields.io/badge/HackTogether-Lisbon-blue)](https://hacktogether.pt) | [Event Link](https://reacttogether.dev/hackathon)
 
-
-
 ### 🏆 Achievement
 - Secured **3rd place** among 70 participants who created 21 projects over 24 hours
-- Organized by Multisync
+- Organized by Multisync, focusing on real-time collaboration technologies
+- Developed and presented the project within an intense 24-hour timeframe
 
 ### 🚀 Project: TripSync
-A platform revolutionizing group trip planning through:
-- 📍 Interactive shared itineraries
-- 🗺️ Real-time collaborative maps
-- ⚡ Instant synchronization across devices
+TripSync transforms chaotic group trip planning into a seamless experience. Our platform simplifies the way friends coordinate their travel plans by providing an intuitive, real-time collaborative environment.
+
+#### ✨ Key Features
+- 📍 **Interactive Shared Itineraries**
+  - Collaborative trip planning in real-time
+  - Dynamic timeline visualization
+  - Instant updates across all participants
+- 🗺️ **Smart Map Integration**
+  - Interactive destination exploration
+  - Point of interest management
+  - Real-time location sharing
+- ⚡ **Real-time Collaboration**
+  - Synchronized editing for all users
+  - Live updates across devices
+  - Seamless multi-user experience
 
 ### 💻 Tech Stack
 - **React Together** - Multisync's real-time synchronization library
-- **Google Maps API** - Interactive destination exploration
-- **Real-time Collaboration** - Seamless user interaction
+  - Implemented `useStateTogether` hook for state synchronization
+  - Real-time data consistency across clients
+  - Seamless multi-user collaboration
+- **Google Maps API**
+  - Interactive map integration
+  - Dynamic POI management
+  - Custom markers and routing
+- **React & TypeScript**
+  - Modern component architecture
+  - Type-safe development
+  - Responsive design
+
+### 🔗 Project Links
+- [🎥 Demo Video](https://www.youtube.com/watch?v=ONnM82d7g4M)
+- [🌐 Live Project](https://hacktogether-ariel.pages.dev/)
+
+### 👥 Team
+- [Gonçalo Canhoto](https://github.com/goncalocanhoto)
+- [Pedro Henriques](https://github.com/PedroCarvalhoHenriques)
 
 <!-- ------------------------------------------------------------- -->
 <!-- ------------------------------------------------------------- -->
@@ -58,9 +85,9 @@ A platform revolutionizing group trip planning through:
 ## 🥇 Make IT Millennium - 1st Place (Local Phase)
 
 <div align="center">
-  <div style="border-radius: 100%; overflow: hidden; width: 100px; height: 100px;">
-    <img src="./images/makeit-logo.jpg" alt="Make It Logo" width="100" height="100"/>
-  </div>
+  <kbd>
+    <img src="./images/makeit-logo.png" alt="Make It Logo" width="100" height="100"/>
+  </kbd>
 </div>
 
 **February 2023** | [![Millennium](https://img.shields.io/badge/Millennium-Bank-green)](https://www.millenniumbcp.pt) | [Event Link](https://www.millenniumbcp.pt)
@@ -84,9 +111,9 @@ Developed a sophisticated predictive model for banking customer retention:
 <!-- ------------------------------------------------------------- -->
 
 <div align="center">
-  <div style="border-radius: 100%; overflow: hidden; width: 100px; height: 100px;">
+  <kbd>
     <img src="./images/hackathome-logo.png" alt="Hackathome Logo" width="100" height="100"/>
-  </div>
+  </kbd>
 </div>
 
 ## 🥇 HACKATHOME Hackathon - 1st Place
