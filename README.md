@@ -26,7 +26,7 @@ I see myself as a **solo builder** who brings practical technology into business
     </td>
     <td>
        <strong><a href="https://www.aeon.so/">AEON</a></strong> — Multi-Chain Crypto Asset Management Platform<br/>
-       <sub><em>Feb 2025 – Jun 2025 • Lisbon</em></sub>
+       <sub><em>Feb 2025 – Jun 2025</em></sub>
     </td>
   </tr>
   <tr>
@@ -57,7 +57,7 @@ I see myself as a **solo builder** who brings practical technology into business
     </td>
     <td>
        <strong><a href="https://www.sonant.ai/">Sonant</a></strong> — AI Agents for the Insurance Industry<br/>
-       <sub><em>Dec 2023 – Jan 2025 • Lisbon</em></sub>
+       <sub><em>Dec 2023 – Jan 2025</em></sub>
     </td>
   </tr>
   <tr>
@@ -94,8 +94,8 @@ I see myself as a **solo builder** who brings practical technology into business
       <img src="./images/logos/livestakes_logo_round.png" alt="Livestakes" width="50" height="50" />
     </td>
     <td>
-       <strong>Livestakes</strong> — ETH Global Hackathon Platform<br/>
-       <sub><a href="https://twitter.com/Livestakes_xyz" target="_blank">🐦 Twitter</a></sub>
+       <strong><a href="https://livestakes.fun/">Livestakes</a></strong> — ETH Global Hackathon Platform<br/>
+       <sub><a href="https://x.com/livestakes" target="_blank"><img src="https://img.shields.io/badge/-000000?style=flat&logo=x&logoColor=white" alt="X" /></a></sub>
     </td>
   </tr>
   <tr>
