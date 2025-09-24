@@ -86,8 +86,6 @@ I see myself as a **solo builder** who brings practical technology into business
 
 ## 🚀 Personal Projects
 
-### 🎯 Livestakes  
-
 <table>
   <tr>
     <td width="60" align="center">
