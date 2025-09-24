@@ -1,65 +1,87 @@
 # 👋 Lourenço Ponces Duarte
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Applying+tech+knowledge+to+traditional+businesses;Building+solutions+that+actually+matter;Making+the+mundane+marvelous" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=6366F1&center=true&vCenter=true&width=520&lines=Solo+building+real-world+projects;Shipping+MVPs+fast%2C+validating+early;Applying+tech+to+traditional+industries" alt="Typing animation" />
 </div>
 
----
+I have a background in Computer Science & Engineering (BSc + MSc, Técnico Lisboa) and have worked in startup contexts while also building projects on my own, often through hackathons. What I enjoy most is turning an idea into a project, creating the MVP, and shipping it.
 
-## 🎯 About Me
+Right now, I'm focused on applying my tech knowledge to traditional industries like construction, industrial real estate, and renewable energy. My goal is to modernize these businesses by:
 
-I'm a **builder** passionate about bridging the gap between cutting-edge technology and traditional business needs. With a BSc and MSc in Computer Science and Engineering from Técnico (ULisboa) and experience in the startup ecosystem, I focus on applying proven tech solutions to solve real-world problems in established industries.
+- **Digitizing daily operations** and replacing outdated manual processes
+- **Automating sales workflows**, client onboarding, email marketing automation, and lead generation
+- **Introducing CRM systems**, AI-powered tools, and marketing automation
+- **Using data dashboards** to make decisions faster and more informed
 
-As a builder, I don't just talk about technology—I create, develop, and bring ideas to life. While everyone's chasing the latest trends, I focus on building solutions that actually matter and drive measurable business value.
+I see myself as a **solo builder** who brings practical technology into businesses that don't usually adopt it early, creating tools that directly improve efficiency and growth.
 
-### 🚀 What I Do
-- 🔧 **Tech Integration**: Helping traditional businesses modernize their operations
-- 🎯 **Problem-Solving**: Turning complex business challenges into elegant technical solutions  
-- 🏆 **Proven Track Record**: Multiple hackathon victories and successful project deliveries
-- 📈 **Business Impact**: Focus on solutions that drive measurable business value
-
-### 🛠️ Tech Arsenal
-<div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain-dot-com&logoColor=white" />
-</div>
 
 ## 💼 Work Experience
 
 <table>
-  <tr>
-    <td width="60" align="center">
-      <img src="./images/sonant_logo_rounded.png" alt="Sonant" width="50" height="50" />
-    </td>
-    <td>
-      <strong>Sonant</strong> — AI Agents for the Insurance Industry<br/>
-      <sub><em>Dec 2023 – Jan 2025 • Lisbon</em></sub>
-      <ul>
-        <li>Built intelligent AI agents to streamline insurance processes and reduce handling time.</li>
-        <li><b>Stack:</b> Python, NLP, ML, FastAPI, Postgres, Docker.</li>
-        <li><b>Focus:</b> Automating complex workflows; improving CX & SLAs.</li>
-      </ul>
-    </td>
-  </tr>
+  <!-- AEON -->
   <tr>
     <td width="60" align="center">
       <img src="./images/aeon_logo_rounded.png" alt="AEON" width="50" height="50" />
     </td>
     <td>
-      <strong>AEON</strong> — Multi-Chain Crypto Asset Management Platform<br/>
-      <sub><em>Jan 2025 – Jun 2025 • Lisbon</em></sub>
+       <strong><a href="https://www.aeon.so/">AEON</a></strong> — Multi-Chain Crypto Asset Management Platform<br/>
+       <sub><em>Feb 2025 – Jun 2025 • Lisbon</em></sub>
+    </td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>
+      <p><b>About the Startup:</b> AEON is a platform that allows investors to manage assets across multiple blockchain ecosystems while keeping full custody. 
+      It offered deep DeFi integrations and policy enforcement (e.g., transfer limits, whitelisted protocols, asset restrictions).</p>
+      <p><b>My Contributions:</b></p>
       <ul>
-        <li>Developed a platform for sophisticated investors to manage and secure assets across chains.</li>
-        <li><b>Stack:</b> Solidity, React, TypeScript, Node.js, EVM/multi-chain integrations.</li>
-        <li><b>Focus:</b> Institutional-grade security; cross-chain asset orchestration.</li>
+        <li>Implemented a unified dashboard to display positions (lending, borrowing, staking, yield) across multiple DeFi platforms.</li>
+        <li>Developed an address management system to enforce policies on which protocols accounts could interact with.</li>
+        <li>Started building an action execution layer to perform DeFi operations directly from AEON without leaving the platform.</li>
+        <li>Integrated with several DeFi protocols by interacting directly with their smart contracts and SDKs.</li>
       </ul>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/Sui_Move-6E00FF?style=flat&logo=move&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white" />
+    </td>
+  </tr>
+
+  <!-- Sonant -->
+  <tr>
+    <td width="60" align="center">
+      <img src="./images/sonant_logo_rounded.png" alt="Sonant" width="50" height="50" />
+    </td>
+    <td>
+       <strong><a href="https://www.sonant.ai/">Sonant</a></strong> — AI Agents for the Insurance Industry<br/>
+       <sub><em>Dec 2023 – Jan 2025 • Lisbon</em></sub>
+    </td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>
+      <p><b>About the Startup:</b> Sonant provided AI receptionists for insurance companies, replacing large call centers with intelligent agents that could answer calls and follow structured conversation flows.</p>
+      <p><b>My Contributions:</b></p>
+      <ul>
+        <li>Led agent development for the company's largest client, designing and onboarding multiple use cases.</li>
+        <li>Integrated client CRM systems so call data flowed directly into their platforms.</li>
+        <li>Built an internal frontend tool with ReactFlow to make it easier to design and configure agent flows.</li>
+      </ul>
+       <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+       <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
+       <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+       <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" />
+       <img src="https://img.shields.io/badge/ReactFlow-61DAFB?style=flat&logo=react&logoColor=black" />
     </td>
   </tr>
 </table>
+
+
+
 
 
 ## 🚀 Personal Projects
@@ -74,17 +96,8 @@ As a builder, I don't just talk about technology—I create, develop, and bring 
 - 🥇 **1st Place** - HACKATHOME 2022 (Blockchain solution for urban development)
 - 🥇 **1st Place** - Make IT Millennium 2023 Local Phase (ML customer churn prediction)
 - 🥉 **3rd Place** - HackTogether Lisbon 2024 (Real-time collaborative platform)
-- 📚 **Master's in Computer Science** - Instituto Superior Técnico, UL
 
 **View all my hackathon achievements**: [hackathons.md](./hackathons.md)
-
-## 🎯 Interests & Focus Areas
-
-- 🔗 **Blockchain/Crypto Projects**: Building decentralized solutions and exploring Web3 innovations
-- 📧 **Tech for Sales**: Applying technology to sales processes, email marketing automation, and lead generation
-- 🤖 **AI Integration**: Implementing AI solutions in traditional business workflows
-- 🏗️ **Legacy System Modernization**: Helping established businesses adopt modern technology
-- 🎮 **Gamification**: Creating engaging user experiences through game mechanics
 
 ## 📊 GitHub Analytics
 
@@ -101,35 +114,6 @@ As a builder, I don't just talk about technology—I create, develop, and bring 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LourencoPonces&theme=tokyonight&hide_border=true&area=true&custom_title=My%20Coding%20Journey&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" alt="GitHub Activity Graph" />
 </div>
 
----
-
-## 🎨 Creative Elements
-
-<div align="center">
-  
-### 🎲 Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🎮 Fun Fact
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8B5CF6&center=true&vCenter=true&width=400&lines=I+turn+coffee+into+code+and+problems+into+solutions;Making+legacy+systems+feel+like+they+were+born+yesterday" alt="Fun Fact" />
-</div>
-
-</div>
-
----
-
-## 🚀 Current Focus
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=10B981&center=true&vCenter=true&width=500&lines=Currently+exploring+AI+integration+in+traditional+workflows;Building+automation+tools+for+legacy+systems;Making+old+processes+feel+new+again" alt="Current Focus" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</div>
 
 
 
