@@ -30,25 +30,37 @@ As a builder, I don't just talk about technology—I create, develop, and bring 
 
 ## 💼 Work Experience
 
-### Sonant
-<div align="left" style="display: flex; align-items: center; gap: 15px;">
-  <img src="./images/sonant_logo.jpeg" alt="Sonant Logo" width="50" height="50" style="border-radius: 8px;" />
-  <strong>AI Agents for the Insurance Industry</strong>
-</div>
+<table>
+  <tr>
+    <td width="60" align="center">
+      <img src="./images/sonant_logo_rounded.png" alt="Sonant" width="50" height="50" />
+    </td>
+    <td>
+      <strong>Sonant</strong> — AI Agents for the Insurance Industry<br/>
+      <sub><em>Dec 2023 – Jan 2025 • Lisbon</em></sub>
+      <ul>
+        <li>Built intelligent AI agents to streamline insurance processes and reduce handling time.</li>
+        <li><b>Stack:</b> Python, NLP, ML, FastAPI, Postgres, Docker.</li>
+        <li><b>Focus:</b> Automating complex workflows; improving CX & SLAs.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="60" align="center">
+      <img src="./images/aeon_logo_rounded.png" alt="AEON" width="50" height="50" />
+    </td>
+    <td>
+      <strong>AEON</strong> — Multi-Chain Crypto Asset Management Platform<br/>
+      <sub><em>Jan 2025 – Jun 2025 • Lisbon</em></sub>
+      <ul>
+        <li>Developed a platform for sophisticated investors to manage and secure assets across chains.</li>
+        <li><b>Stack:</b> Solidity, React, TypeScript, Node.js, EVM/multi-chain integrations.</li>
+        <li><b>Focus:</b> Institutional-grade security; cross-chain asset orchestration.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-- Built intelligent AI agents to streamline insurance processes
-- **Tech Stack**: Python, Machine Learning, NLP, API Development
-- Focused on automating complex insurance workflows and improving customer experience
-
-### AEON
-<div align="left" style="display: flex; align-items: center; gap: 15px;">
-  <img src="./images/aeon_logo.png" alt="AEON Logo" width="50" height="50" style="border-radius: 8px;" />
-  <strong>Multi-Chain Crypto Asset Management Platform</strong>
-</div>
-
-- Developed platform for sophisticated investors to manage, store, and secure crypto assets across multiple blockchains
-- **Tech Stack**: Blockchain, Solidity, React, TypeScript, Node.js, Multi-chain Integration
-- Implemented institutional-grade security and cross-chain asset management solutions
 
 ## 🚀 Personal Projects
 
