@@ -4,17 +4,17 @@
   <table style="border-collapse: collapse; border: none;">
     <tr>
       <td align="center">
-        <img src="./images/hacktogether-team.jpeg" alt="Hackathon Achievement 1" width="350"/><br/>
+        <img src="./images/hackathons/hacktogether-team.jpeg" alt="Hackathon Achievement 1" width="350"/><br/>
         <sub><b>HackTogether Lisbon 2024</b></sub><br/>
         <sub><i>3rd Place Winner</i></sub>
       </td>
       <td align="center">
-        <img src="./images/makeit-team.jpeg" alt="Hackathon Achievement 2" width="350"/><br/>
+        <img src="./images/hackathons/makeit-team.jpeg" alt="Hackathon Achievement 2" width="350"/><br/>
         <sub><b>Make IT Millennium 2023</b></sub><br/>
         <sub><i>1st Place Local Phase</i></sub>
       </td>
       <td align="center">
-        <img src="./images/hackathome-team.jpg" alt="Hackathon Achievement 3" width="350"/><br/>
+        <img src="./images/hackathons/hackathome-team.jpg" alt="Hackathon Achievement 3" width="350"/><br/>
         <sub><b>HACKATHOME 2022</b></sub><br/>
         <sub><i>1st Place Winner</i></sub>
       </td>
@@ -29,7 +29,7 @@
 
 <div align="center">
   <kbd>
-    <img src="./images/hacktogether-logo.jpg" alt="HackTogether Logo" width="100" height="100"/>
+    <img src="./images//hackathons/hacktogether-logo.jpg" alt="HackTogether Logo" width="100" height="100"/>
   </kbd>
 </div>
 
@@ -66,7 +66,7 @@ TripSync transforms chaotic group trip planning into a seamless experience. Our 
 
 <div align="center">
   <kbd>
-    <img src="./images/makeit-logo.png" alt="Make It Logo" width="100" height="100"/>
+    <img src="./images//hackathons/makeit-logo.png" alt="Make It Logo" width="100" height="100"/>
   </kbd>
 </div>
 
@@ -101,7 +101,7 @@ A machine learning solution that predicts and prevents customer churn through tr
 
 <div align="center">
   <kbd>
-    <img src="./images/hackathome-logo.png" alt="Hackathome Logo" width="100" height="100"/>
+    <img src="./images//hackathons/hackathome-logo.png" alt="Hackathome Logo" width="100" height="100"/>
   </kbd>
 </div>
 
