@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=6366F1&center=true&vCenter=true&width=520&lines=Solo+building+real-world+projects;Shipping+MVPs+fast%2C+validating+early;Applying+tech+to+traditional+industries" alt="Typing animation" />
 </div>
 
-I have a background in Computer Science & Engineering (BSc + MSc, Técnico Lisboa) and have worked in startup contexts while also building projects on my own, often through hackathons. What I enjoy most is turning an idea into a project, creating the MVP, and shipping it.
+I have a background in Computer Science & Engineering (BSc + MSc, Técnico Lisboa) and have worked in startups while also building projects on my own, often through hackathons. What I enjoy most is turning an idea into a project, creating the MVP, and shipping it.
 
 Right now, I'm focused on applying my tech knowledge to traditional industries like construction, industrial real estate, and renewable energy. My goal is to modernize these businesses by:
 
@@ -22,7 +22,7 @@ I see myself as a **solo builder** who brings practical technology into business
   <!-- AEON -->
   <tr>
     <td width="60" align="center">
-      <img src="./images/aeon_logo_rounded.png" alt="AEON" width="50" height="50" />
+      <img src="./images/logos/aeon_logo_rounded.png" alt="AEON" width="50" height="50" />
     </td>
     <td>
        <strong><a href="https://www.aeon.so/">AEON</a></strong> — Multi-Chain Crypto Asset Management Platform<br/>
@@ -53,7 +53,7 @@ I see myself as a **solo builder** who brings practical technology into business
   <!-- Sonant -->
   <tr>
     <td width="60" align="center">
-      <img src="./images/sonant_logo_rounded.png" alt="Sonant" width="50" height="50" />
+      <img src="./images/logos/sonant_logo_rounded.png" alt="Sonant" width="50" height="50" />
     </td>
     <td>
        <strong><a href="https://www.sonant.ai/">Sonant</a></strong> — AI Agents for the Insurance Industry<br/>
@@ -86,11 +86,50 @@ I see myself as a **solo builder** who brings practical technology into business
 
 ## 🚀 Personal Projects
 
-### 🎯 Livestakes
-**ETH Global Hackathon Betting Platform**
-- Built a platform where people can bet on teams that are going to win ETH Global hackathons
-- **Tech Stack**: React, TypeScript, Smart Contracts, Web3, Real-time Data
-- Created engaging prediction markets for the hackathon community
+### 🎯 Livestakes  
+
+<table>
+  <tr>
+    <td width="60" align="center">
+      <img src="./images/logos/livestakes_logo_round.png" alt="Livestakes" width="50" height="50" />
+    </td>
+    <td>
+       <strong>Livestakes</strong> — ETH Global Hackathon Platform<br/>
+       <sub><a href="https://twitter.com/Livestakes_xyz" target="_blank">🐦 Twitter</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>
+      <p><b>About the Project:</b> Livestakes was initially created as a platform where people could bet on hackathon teams they thought would win ETH Global events. Later, it evolved into an <b>analysis tool</b> to study hackathon projects by replaying repository histories and tracking technology adoption.</p>
+      <p><b>My Contributions:</b></p>
+        <ul>
+          <li>Built a RAG system to analyze commits and extract insights from project repositories.</li>
+          <li>Used LangChain to process commit data, identify implemented features, and detect sponsor tech adoption across projects.</li>
+          <li>Created a support tool to test and validate the analysis system:
+            <ul>
+              <li>Clone repositories from database-driven configuration with parallel processing</li>
+              <li>Replay commit history at accelerated speed (10x–1000x) while preserving timestamps</li>
+              <li>Simulate multiple repositories in parallel with real-time progress</li>
+              <li>Expose a live API server with GitHub-compatible endpoints for querying simulated repositories</li>
+            </ul>
+          </li>
+          <li>Developed a web app dashboard to present insights to hackers and sponsors, showing detected features and technology usage clearly.</li>
+        </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+
+
 
 ### 🏆 Notable Achievements
 - 🥇 **1st Place** - HACKATHOME 2022 (Blockchain solution for urban development)
