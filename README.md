@@ -25,8 +25,13 @@ I see myself as a **solo builder** who brings practical technology into business
       <img src="./images/logos/aeon_logo_rounded.png" alt="AEON" width="50" height="50" />
     </td>
     <td>
-       <strong><a href="https://www.aeon.so/">AEON</a></strong> — Multi-Chain Crypto Asset Management Platform<br/>
-       <sub><em>Feb 2025 – Jun 2025</em></sub>
+       <strong><a href="https://www.aeon.so/">AEON</a></strong> — Multi-Chain Crypto Asset Management Platform
+       <em>(Feb 2025 – Jun 2025)</em>
+       <br/>
+       <sub>
+         <a href="https://www.aeon.so/" target="_blank"><img src="https://img.shields.io/badge/-6366F1?style=flat&logo=googlechrome&logoColor=white" alt="Website" /></a>
+         <a href="https://www.linkedin.com/company/aeon-hq" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+       </sub>
     </td>
   </tr>
   <tr>
@@ -56,8 +61,13 @@ I see myself as a **solo builder** who brings practical technology into business
       <img src="./images/logos/sonant_logo_rounded.png" alt="Sonant" width="50" height="50" />
     </td>
     <td>
-       <strong><a href="https://www.sonant.ai/">Sonant</a></strong> — AI Agents for the Insurance Industry<br/>
-       <sub><em>Dec 2023 – Jan 2025</em></sub>
+       <strong><a href="https://www.sonant.ai/">Sonant</a></strong> — AI Agents for the Insurance Industry
+       <em>(Dec 2023 – Jan 2025)</em>
+       <br/>
+       <sub>
+         <a href="https://www.sonant.ai/" target="_blank"><img src="https://img.shields.io/badge/-6366F1?style=flat&logo=googlechrome&logoColor=white" alt="Website" /></a>
+         <a href="https://www.linkedin.com/company/sonant" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+       </sub>
     </td>
   </tr>
   <tr>
@@ -93,7 +103,10 @@ I see myself as a **solo builder** who brings practical technology into business
     </td>
     <td>
        <strong><a href="https://livestakes.fun/">Livestakes</a></strong> — ETH Global Hackathon Platform<br/>
-       <sub><a href="https://x.com/livestakes" target="_blank"><img src="https://img.shields.io/badge/-000000?style=flat&logo=x&logoColor=white" alt="X" /></a></sub>
+       <sub>
+       <a href="https://livestakes.fun/" target="_blank"><img src="https://img.shields.io/badge/-6366F1?style=flat&logo=googlechrome&logoColor=white" alt="Website" /></a>
+       <a href="https://x.com/livestakes" target="_blank"><img src="https://img.shields.io/badge/-000000?style=flat&logo=x&logoColor=white" alt="X" /><a>
+       </sub>
     </td>
   </tr>
   <tr>
