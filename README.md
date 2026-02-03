@@ -152,15 +152,6 @@ I see myself as a **solo builder** who brings practical technology into business
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LourencoPonces&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LourencoPonces&show_icons=true&theme=tokyonight&hide=contribs,prs&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LourencoPonces&layout=compact&theme=tokyonight&hide=html,css&langs_count=6" alt="Top Languages" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LourencoPonces&theme=tokyonight&hide_border=true&area=true&custom_title=My%20Coding%20Journey&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" alt="GitHub Activity Graph" />
 </div>
 
